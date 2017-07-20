@@ -1,0 +1,27 @@
+{
+  "name": "liribot",
+  "version": "1.0.0",
+  "description": "liri",
+  "main": "logic.js",
+  "scripts": {
+    "test": "echo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masteremmy/LiriBot.git"
+  },
+  "keywords": [
+    "liribot"
+  ],
+  "author": "masteremmy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/masteremmy/LiriBot/issues"
+  },
+  "homepage": "https://github.com/masteremmy/LiriBot#readme",
+  "dependencies": {
+    "request": "^2.81.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.7.1"
+  }
+}
