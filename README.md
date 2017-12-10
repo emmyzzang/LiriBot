@@ -2,6 +2,17 @@
 
 LIRI is a Language Interpretation and Recognition Interface. LIRI is a command line node application that accepts parameter inputs and then outputs data to the user's terminal/bash window.
 
+# Technologies 
+
+* CLI 
+* Node JS 
+* NPM 
+* File System 
+* Twitter API 
+* Spotify API
+* OMDB API
+* JavaScript
+
 # Features
 
 When user inputs `node liri.js my-tweets`, liri outputs user's last 20 tweets in user's terminal/bash window:
